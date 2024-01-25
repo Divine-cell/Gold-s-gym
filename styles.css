@@ -428,17 +428,23 @@ input:focus {
 /* -----------------MOBILE VIEW OF HOME PAGE ----------*/
 @media screen and (max-width: 767px){
     .navbar {
-        padding-left: 40px;
+        padding-left: 20px;
+        
         width: 100%;
         position: fixed;
         overflow: hidden;
         background-color: #000000;
+        
         
     }
     .logo img {
         width: 47px;
         height: 47px;
         
+    }
+
+    .main {
+        margin: 0 20px;
     }
     .harmbuger-menu {
         display: block;
