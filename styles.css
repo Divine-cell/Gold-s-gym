@@ -345,6 +345,10 @@ h1 {
     margin-top: 80px;
 }
 
+.protein-details a {
+    text-decoration: none;
+}
+
 .healthy-recipies {
     display: flex;
     align-items: center;
