@@ -1550,6 +1550,10 @@ a #recipe-btn:hover {
         position: static;
 
     }
+
+    .totebag-item {
+      padding-left: 30px;
+    }
     .items {
         display: block;
         width: 70%;
@@ -1559,7 +1563,7 @@ a #recipe-btn:hover {
         width: 100%;
         border-radius: 0px;
         margin-left: -25px;
-        margin-top: -650px;
+        margin-top: -50px;
         transform: translate(-50%, 0%) scale(1.2)
     }
 
